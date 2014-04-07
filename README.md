@@ -1,4 +1,11 @@
+#Overview
+
+### Piping, Streams, Video. HOTNESS.
+
 Video Link : [http://vimeo.com/68236538](http://vimeo.com/68236538)
+Found here on goog groups: https://groups.google.com/forum/#!topic/baconjs/-epQIO_d8_Y 
+
+
 
 // consider putting this in
 client.config('general:navdata demo', 'FALSE');
